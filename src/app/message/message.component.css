@@ -1,0 +1,8 @@
+.display {
+    background-color: lightgrey;
+    width: 300px;
+    border: 2px solid green;
+    padding: 25px;
+    margin: 25px 230px;
+    text-align: center;
+}

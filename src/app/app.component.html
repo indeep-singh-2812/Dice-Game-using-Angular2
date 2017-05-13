@@ -1,0 +1,10 @@
+<h1>
+  {{title}}
+  <h6>
+  Rule of the Dice Game:<br>
+  1. If the SUM of both the value is EVEN, you will WIN.<br>
+  2. If the SUM of both the value is ODD or Equal to 6, you will LOOSE.  
+</h6>
+<app-display (result)='displayMessage($event)'></app-display>
+  <app-message [result]='result'></app-message>
+</h1>
