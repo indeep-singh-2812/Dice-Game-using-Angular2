@@ -9,6 +9,7 @@ We have created this application using angular-cli , introduced in Angular2.
 
 How to run this application.
 1. Install nodejs on your system.
+use **npm install** in command prompt in the location of you local folder where this project will be mapped, to install all the node    modules required for the application.
 2. use node package manager i.e. npm to install angular-cli. Command is  
     **npm install -g angular-cli** 
 3. Go to the application folder, run command prompt in that location. You can view the source code using Visual Studio or Visual Studio      Code. I have used VS Code for building this app. 
