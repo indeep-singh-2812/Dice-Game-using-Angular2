@@ -1,3 +1,4 @@
+Please unzip the file in your computer to use it.  
 # Dice-Game-using-Angular2
 In this repo, we have create a basic game using Angular2 . 
 This is a Dice Game. User will have to lick the button to get two values for the dices. There are 2 rules to play this game.<br />
